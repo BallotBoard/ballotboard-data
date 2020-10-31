@@ -1,6 +1,298 @@
 [
     {
-        "name": "",
-        "slug": ""
+        "name": "Federal Capital Territory",
+        "short_name": "FCT",
+        "slug": "fct",
+        "code": "FC",
+        "capital": "Abuja",
+        "website": ""
+    },
+    {
+        "name": "Abia",
+        "short_name": "Abia",
+        "slug": "abia",
+        "code": "AB",
+        "capital": "Umuahia",
+        "website": "http://www.abiastate.gov.ng"
+    },
+    {
+        "name": "Adamawa",
+        "short_name": "Adamawa",
+        "slug": "adamawa",
+        "code": "AD",
+        "capital": "Yola",
+        "website": "http://www.adamawastate.gov.ng"
+    },
+    {
+        "name": "Akwa Ibom",
+        "short_name": "Akwa Ibom",
+        "slug": "akwa-ibom",
+        "code": "AK",
+        "capital": "Uyo",
+        "website": "https://akwaibomstate.gov.ng"
+    },
+    {
+        "name": "Anambra",
+        "short_name": "Anambra",
+        "slug": "anambra",
+        "code": "AN",
+        "capital": "Awka",
+        "website": "https://www.anambrastate.gov.ng"
+    },
+    {
+        "name": "Bauchi",
+        "short_name": "Bauchi",
+        "slug": "bauchi",
+        "code": "BA",
+        "capital": "Bauchi",
+        "website": "https://www.bauchistate.gov.ng"
+    },
+    {
+        "name": "Bayelsa",
+        "short_name": "Bayelsa",
+        "slug": "bayelsa",
+        "code": "BY",
+        "capital": "Yenagoa",
+        "website": "http://www.bayelsa.gov.ng"
+    },
+    {
+        "name": "Benue",
+        "short_name": "Benue",
+        "slug": "benue",
+        "code": "BE",
+        "capital": "Makurdi",
+        "website": "https://benuestate.gov.ng"
+    },
+    {
+        "name": "Borno",
+        "short_name": "Borno",
+        "slug": "borno",
+        "code": "BO",
+        "capital": "Maiduguri",
+        "website": "https://www.bornostate.gov.ng"
+    },
+    {
+        "name": "Cross River",
+        "short_name": "Cross River",
+        "slug": "cross-river",
+        "code": "CR",
+        "capital": "Calabar",
+        "website": "http://www.crossriverstate.gov.ng"
+    },
+    {
+        "name": "Delta",
+        "short_name": "Delta",
+        "slug": "delta",
+        "code": "DE",
+        "capital": "Asaba",
+        "website": "https://www.deltastate.gov.ng"
+    },
+    {
+        "name": "Ebonyi",
+        "short_name": "Ebonyi",
+        "slug": "ebonyi",
+        "code": "EB",
+        "capital": "Abakaliki",
+        "website": "http://www.ebonyistate.gov.ng"
+    },
+    {
+        "name": "Edo",
+        "short_name": "Edo",
+        "slug": "edo",
+        "code": "ED",
+        "capital": "Benin City",
+        "website": "http://www.edostate.gov.ng"
+    },
+    {
+        "name": "Ekiti",
+        "short_name": "Ekiti",
+        "slug": "ekiti",
+        "code": "EK",
+        "capital": "Ado Ekiti",
+        "website": "https://ekitistate.gov.ng"
+    },
+    {
+        "name": "Enugu",
+        "short_name": "Enugu",
+        "slug": "enugu",
+        "code": "EN",
+        "capital": "Enugu",
+        "website": "https://www.enugustate.gov.ng"
+    },
+    {
+        "name": "Gombe",
+        "short_name": "Gombe",
+        "slug": "gombe",
+        "code": "GO",
+        "capital": "Gombe",
+        "website": "http://www.gombestate.gov.ng"
+    },
+    {
+        "name": "Imo",
+        "short_name": "Imo",
+        "slug": "imo",
+        "code": "IM",
+        "capital": "Owerri",
+        "website": "https://www.imostate.gov.ng"
+    },
+    {
+        "name": "Jigawa",
+        "short_name": "Jigawa",
+        "slug": "jigawa",
+        "code": "JI",
+        "capital": "Dutse",
+        "website": "https://www.jigawastate.gov.ng"
+    },
+    {
+        "name": "Kaduna",
+        "short_name": "Kaduna",
+        "slug": "kaduna",
+        "code": "KD",
+        "capital": "Kaduna",
+        "website": "https://kdsg.gov.ng"
+    },
+    {
+        "name": "Kano",
+        "short_name": "Kano",
+        "slug": "kano",
+        "code": "KN",
+        "capital": "Kano",
+        "website": "https://www.kanostate.gov.ng"
+    },
+    {
+        "name": "Katsina",
+        "short_name": "Katsina",
+        "slug": "katsina",
+        "code": "KT",
+        "capital": "Katsina",
+        "website": "https://www.katsinastate.gov.ng"
+    },
+    {
+        "name": "Kebbi",
+        "short_name": "Kebbi",
+        "slug": "kebbi",
+        "code": "KE",
+        "capital": "Birnin Kebbi",
+        "website": "https://www.kebbistate.gov.ng"
+    },
+    {
+        "name": "Kogi",
+        "short_name": "Kogi",
+        "slug": "kogi",
+        "code": "KO",
+        "capital": "Lokoja",
+        "website": "https://www.kogistate.gov.ng"
+    },
+    {
+        "name": "Kwara",
+        "short_name": "Kwara",
+        "slug": "kwara",
+        "code": "KW",
+        "capital": "Ilorin",
+        "website": "https://kwarastate.gov.ng"
+    },
+    {
+        "name": "Lagos",
+        "short_name": "Lagos",
+        "slug": "lagos",
+        "code": "LA",
+        "capital": "Ikeja",
+        "website": "https://lagosstate.gov.ng"
+    },
+    {
+        "name": "Nassarawa",
+        "short_name": "Nassarawa",
+        "slug": "nassarawa",
+        "code": "NA",
+        "capital": "Lafia",
+        "website": "https://www.nasarawastate.gov.ng"
+    },
+    {
+        "name": "Niger",
+        "short_name": "Niger",
+        "slug": "niger",
+        "code": "NI",
+        "capital": "Minna",
+        "website": "https://nigerstate.gov.ng"
+    },
+    {
+        "name": "Ogun",
+        "short_name": "Ogun",
+        "slug": "ogun",
+        "code": "OG",
+        "capital": "Abeokuta",
+        "website": "http://ogunstate.gov.ng"
+    },
+    {
+        "name": "Ondo",
+        "short_name": "Ondo",
+        "slug": "ondo",
+        "code": "ON",
+        "capital": "Akure",
+        "website": "http://www.ondostate.gov.ng"
+    },
+    {
+        "name": "Osun",
+        "short_name": "Osun",
+        "slug": "osun",
+        "code": "OS",
+        "capital": "Oshogbo",
+        "website": "https://osun.gov.ng"
+    },
+    {
+        "name": "Oyo",
+        "short_name": "Oyo",
+        "slug": "oyo",
+        "code": "OY",
+        "capital": "Ibadan",
+        "website": "https://oyostate.gov.ng"
+    },
+    {
+        "name": "Plateau",
+        "short_name": "Plateau",
+        "slug": "plateau",
+        "code": "PL",
+        "capital": "Jos",
+        "website": "https://www.plateaustate.gov.ng"
+    },
+    {
+        "name": "Rivers",
+        "short_name": "Rivers",
+        "slug": "rivers",
+        "code": "RI",
+        "capital": "Port Harcourt",
+        "website": "http://www.riversstate.gov.ng"
+    },
+    {
+        "name": "Sokoto",
+        "short_name": "Sokoto",
+        "slug": "sokoto",
+        "code": "SO",
+        "capital": "Sokoto",
+        "website": "https://sokotostate.gov.ng"
+    },
+    {
+        "name": "Taraba",
+        "short_name": "Taraba",
+        "slug": "taraba",
+        "code": "TA",
+        "capital": "Jalingo",
+        "website": "https://tarabastate.gov.ng"
+    },
+    {
+        "name": "Yobe",
+        "short_name": "Yobe",
+        "slug": "yobe",
+        "code": "YO",
+        "capital": "Damaturu",
+        "website": "https://yobestate.gov.ng"
+    },
+    {
+        "name": "Zamfara",
+        "short_name": "Zamfara",
+        "slug": "zamfara",
+        "code": "ZA",
+        "capital": "Gusau",
+        "website": "https://zamfara.gov.ng"
     }
 ]

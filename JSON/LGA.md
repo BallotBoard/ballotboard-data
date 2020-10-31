@@ -1,4 +1,4 @@
-## List of Local Governments in Nigeria
+# List of Local Governments in Nigeria
 
 List of LGAs in Nigeria in alphabetical order
 ```
