@@ -1,0 +1,176 @@
+[
+    {
+        "state": "Federal Capital Territory",
+        "LGAs": [
+            {
+                "name": "Abaji"
+            },
+            {
+                "name": "Abuja Municipal "
+            },
+            {
+                "name": "Gwagwalada"
+            },
+            {
+                "name": "Kuje"
+            },
+            {
+                "name": "Bwari"
+            },
+            {
+                "name": "Kwali"
+            }
+        ]
+    },
+    {
+        "state": "Abia",
+        "LGAs": [
+            {
+                "name": "Aba North"
+            },
+            {
+                "name": "Aba South"
+            },
+            {
+                "name": "Arochukwu"
+            },
+            {
+                "name": "Bende"
+            },
+            {
+                "name": "Ikwuano"
+            },
+            {
+                "name": "Isiala Ngwa North"
+            },
+            {
+                "name": "Isiala Ngwa South"
+            },
+            {
+                "name": "Isuikwuato"
+            },
+            {
+                "name": "Obi Ngwa"
+            },
+            {
+                "name": "Ohafia"
+            },
+            {
+                "name": "Osisioma Ngwa"
+            },
+            {
+                "name": "Ugwunagbo"
+            },
+            {
+                "name": "Ukwa East"
+            },
+            {
+                "name": "Ukwa West"
+            },
+            {
+                "name": "Umuahia North"
+            },
+            {
+                "name": "Umuahia South"
+            },
+            {
+                "name": "Umu Nneochi"
+            },
+            {
+                "name": ""
+            }
+        ]
+    },
+    {
+        "state": "",
+        "LGAs": [
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            }
+        ]
+    },
+    {
+        "state": "",
+        "LGAs": [
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            }
+        ]
+    },
+    {
+        "state": "",
+        "LGAs": [
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            }
+        ]
+    },
+    {
+        "state": "",
+        "LGAs": [
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            },
+            {
+                "name": ""
+            }
+        ]
+    }
+]

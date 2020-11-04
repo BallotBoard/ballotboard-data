@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Accord",
+        "acronym": "A",
+        "slug": "accord"
+    },
+    {
+        "name": "Action Alliance",
+        "acronym": "AA",
+        "slug": "action-alliance"
+    },
+    {
+        "name": "African Action Congress",
+        "acronym": "AAC",
+        "slug": "african-action-congress"
+    },
+    {
+        "name": "African Democratic Congress",
+        "acronym": "ADC",
+        "slug": "african-democratic-congress"
+    },
+    {
+        "name": "Action Democratic Party",
+        "acronym": "ADP",
+        "slug": "action-democratic-party"
+    },
+    {
+        "name": "All Progressives Congress",
+        "acronym": "APC",
+        "slug": "all-progressives-congress"
+    },
+    {
+        "name": "All Progressives Grand Alliance",
+        "acronym": "APGA",
+        "slug": "all-progressives-grand-alliance"
+    },
+    {
+        "name": "Allied Peoples Movement",
+        "acronym": "APM",
+        "slug": "allied-peoples-movement"
+    },
+    {
+        "name": "Action Peoples Party",
+        "acronym": "APP",
+        "slug": "action-peoples-party"
+    },
+    {
+        "name": "Boot Party",
+        "acronym": "BP",
+        "slug": "boot-party"
+    },
+    {
+        "name": "Labour Party",
+        "acronym": "LP",
+        "slug": "labour-party"
+    },
+    {
+        "name": "New Nigeria Peoples Party",
+        "acronym": "NNPP",
+        "slug": "new-nigeria-peoples-party"
+    },
+    {
+        "name": "National Rescue Movement",
+        "acronym": "NRM",
+        "slug": "national-rescue-movement"
+    },
+    {
+        "name": "Peoples Democratic Party",
+        "acronym": "PDP",
+        "slug": "peoples-democratic-party"
+    },
+    {
+        "name": "Peoples Redemption Party",
+        "acronym": "PRP",
+        "slug": "peoples-redemption-party"
+    },
+    {
+        "name": "Social Democratic Party",
+        "acronym": "SDP",
+        "slug": "social-democratic-party"
+    },
+    {
+        "name": "Young Progressive Party",
+        "acronym": "YPP",
+        "slug": "young-progressive-party"
+    },
+    {
+        "name": "Zenith Labour Party",
+        "acronym": "ZLP",
+        "slug": "zenith-labour-party"
+    }
+]
