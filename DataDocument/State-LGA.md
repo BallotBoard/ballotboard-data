@@ -126,7 +126,7 @@ Oyi
 ### Bauchi
 
 ```
-Bauchi 
+Bauchi
 Tafawa Balewa 
 Dass 
 Toro 
@@ -638,7 +638,7 @@ Apapa
 Badagry 
 Epe 
 Eti-Osa 
-Ibeju- Lekki 
+Ibeju-Lekki 
 Ifako/Ijaye 
 Ikeja 
 Ikorodu 
